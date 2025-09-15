@@ -14,4 +14,3 @@ ORDER_DATA = {
     "deliveryDate": "2025-09-16",
     "comment": "И поживее!",
     "color": ["BLACK"]
-}
